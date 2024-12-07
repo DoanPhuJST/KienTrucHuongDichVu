@@ -1,0 +1,6 @@
+@KTHDV_BTH5_HostAddress = http://localhost:5046
+
+GET {{KTHDV_BTH5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

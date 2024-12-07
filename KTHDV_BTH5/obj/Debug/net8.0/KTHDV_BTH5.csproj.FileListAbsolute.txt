@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\KTHDV_BTH5\KTHDV_BTH5\obj\Debug\net8.0\KTHDV_BTH5.MvcApplicationPartsAssemblyInfo.cache
