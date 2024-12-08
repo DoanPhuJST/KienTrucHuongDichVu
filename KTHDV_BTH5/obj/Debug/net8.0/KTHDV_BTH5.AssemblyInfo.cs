@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTHDV_BTH5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14e42aba3d66a66c061b50a74fbd41872f011c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTHDV_BTH5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTHDV_BTH5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

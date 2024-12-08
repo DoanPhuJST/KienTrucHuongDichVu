@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|c:\\users\\asus\\source\\repos\\kthdv_bth5\\kthdv_bth5\\data\\reportingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\data\\reportingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\models\\productreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\models\\productreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\models\\orderreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\models\\orderreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\models\\productreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\models\\productreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|c:\\users\\asus\\source\\repos\\kthdv_bth5\\kthdv_bth5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\kthdv_bth5\\data\\reportingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6587629A-D467-470D-AAC8-89C8881D6E9E}|KTHDV_BTH5\\KTHDV_BTH5.csproj|solutionrelative:kthdv_bth5\\data\\reportingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +70,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Program.cs",
+              "RelativeDocumentMoniker": "KTHDV_BTH5\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Program.cs",
+              "RelativeToolTip": "KTHDV_BTH5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:38:00.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "KTHDV_BTH5\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "KTHDV_BTH5\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:36:34.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KTHDV_BTH5\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KTHDV_BTH5\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:33:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ReportingContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Data\\ReportingContext.cs",
               "RelativeDocumentMoniker": "KTHDV_BTH5\\Data\\ReportingContext.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Data\\ReportingContext.cs",
               "RelativeToolTip": "KTHDV_BTH5\\Data\\ReportingContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:48:40.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T15:48:40.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrderReport.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Models\\OrderReport.cs",
               "RelativeDocumentMoniker": "KTHDV_BTH5\\Models\\OrderReport.cs",
@@ -79,29 +127,31 @@
               "RelativeToolTip": "KTHDV_BTH5\\Models\\OrderReport.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:32:45.627Z"
+              "WhenOpened": "2024-12-07T15:32:45.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductReport.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Models\\ProductReport.cs",
               "RelativeDocumentMoniker": "KTHDV_BTH5\\Models\\ProductReport.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Models\\ProductReport.cs",
               "RelativeToolTip": "KTHDV_BTH5\\Models\\ProductReport.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:32:06.711Z"
+              "WhenOpened": "2024-12-07T15:32:06.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "KTHDV_BTH5\\Controllers\\ReportsController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KTHDV_BTH5\\KTHDV_BTH5\\Controllers\\ReportsController.cs",
               "RelativeToolTip": "KTHDV_BTH5\\Controllers\\ReportsController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAjwCsAAAAeAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T15:27:17.194Z"
             }
